@@ -5,7 +5,7 @@ Young adults want to be more in touch with their mental health & need a personal
 
 ## Proposed Solution
 
-The ~Mental Health Buddy~ is an alexa skill that provides individuals with personalized daily mental health maintenance through the help of an automated AI to speak to or chat with. 
+The Mental Health Buddy is an alexa skill paired with an app that provides individuals with personalized daily mental health maintenance through the help of an automated AI to speak to or chat with. 
 
 - Generates casual & personal conversations that allow mental health maintenance to be part of a daily routine
 - Tracks monthly mental health progress that provides feedback and recommendations.
