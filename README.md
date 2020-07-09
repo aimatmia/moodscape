@@ -1,4 +1,4 @@
-# Mental-Health-Buddy
+## Mental Health Buddy
 # Problem Statement
 
 Young adults want to be more in touch with their mental health & need a personalized, accessible resource to guide them in healthy mental state in their everyday life. However, they are not comfortable, unable, or find it unnecessary to reach out to professionals to speak with. 
