@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## 👉 Get Started
 =======
 # you-feel
